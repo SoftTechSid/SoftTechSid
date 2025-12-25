@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/SoftTechSid">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%20%20Breaking%20code%20before%20it%20breaks%20you%20%E2%80%94%20one%20automated%20test%20at%20a%20time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=One%20automated%20test%20at%20a%20time." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -19,7 +19,9 @@
 </p>
 
 <!-- SOCIAL LINKS -->
-
+<p>
+<a href="mailto:siddeshwrgirame@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+</p>
 
 </div>
 
@@ -33,15 +35,16 @@
 
 💼 **6+**
 
-🔭 Currently working on **[Sid_Karate_API](https://github.com/SoftTechSid/Sid_Karate_API)**
+🔭 Currently working on **[SoftTechSid](https://github.com/SoftTechSid/SoftTechSid)**
 
-🌱 Currently learning **AI Agents, LLM, AI-ML**
+🌱 Currently learning **AI Agents, LLM**
 
-💬 Ask me about **Test Automation, Playwright, Selenium, QA Ops**
+💬 Ask me about **Selenium,Playwright**
 
 
+⚡ Fun fact: **I love debugging**
 
-📦 **3** repositories
+📦 **4** repositories
 
 <br clear="right"/>
 
@@ -53,7 +56,7 @@
 <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
 
 
-
+<img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring"/>
 </p>
 
 
@@ -87,8 +90,18 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
 <img src="https://img.shields.io/badge/Karate-00DC82?style=for-the-badge&logo=karate&logoColor=white" alt="karate"/>
+<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit"/>
+<img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
+<img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
+<img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack"/>
+<img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
+<img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 </div>
 
 </td>
@@ -98,7 +111,9 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
 
 </td>
@@ -107,7 +122,14 @@
 <h3 align="center">⚙️ DevOps & Tools</h3>
 <br/>
 <div align="center">
-<em>No DevOps skills selected</em>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+<img src="https://img.shields.io/badge/Selenium_Grid-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="seleniumgrid"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 </div>
 
 </td>
@@ -121,6 +143,7 @@
 
 <div align="center">
 
+<a href="https://github.com/SoftTechSid/SoftTechSid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SoftTechSid&repo=SoftTechSid&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SoftTechSid"/></a>
 <a href="https://github.com/SoftTechSid/Sid_Karate_API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SoftTechSid&repo=Sid_Karate_API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Sid_Karate_API"/></a>
 <a href="https://github.com/SoftTechSid/Sid-QA-Selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SoftTechSid&repo=Sid-QA-Selenium&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Sid-QA-Selenium"/></a>
 <a href="https://github.com/SoftTechSid/Sid-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SoftTechSid&repo=Sid-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Sid-API"/></a>
@@ -140,6 +163,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://github.com/SoftTechSid/SoftTechSid"><b>SoftTechSid</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
 <tr>
 <td><a href="https://github.com/SoftTechSid/Sid_Karate_API"><b>Sid_Karate_API</b></a></td>
 <td>This Repository if for Karate API Framework A comprehensive ...</td>
@@ -165,7 +195,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>3</b> repositories</i>
+  <i>💡 Total of <b>4</b> repositories</i>
 </p>
 
 
@@ -195,7 +225,7 @@
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-3-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-4-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
@@ -214,7 +244,7 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="https://github.com/SoftTechSid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:siddeshwrgirame@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
 📫 **Reach out** — I'd love to hear from you!
 
@@ -229,4 +259,3 @@
 **⭐ From [SoftTechSid](https://github.com/SoftTechSid) with ❤️**
 
 </div>
-
